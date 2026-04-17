@@ -1,5 +1,5 @@
-## 👋 *Hey ya'll*
-# *Its* **Darshan B M**
+<h1 align="center">Hi 👋, I'm Darshan</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 ### [**CSE MSRIT '27, Bangalore, India**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/)
 

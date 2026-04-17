@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<p id="top" align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Darshan!!</h1>
+
+                                                    D A R S H N   B M  ✨
+                          Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+
 
 ### [**CSE MSRIT '27, Bangalore, India**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/)
 

@@ -10,7 +10,7 @@
 
 ### [**CSE MSRIT '27, Bangalore, India**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbm05&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbm05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darshanbm05&label=Profile%20views&color=0e75b6&style=flat" alt="Darshanbm05" /> </p>
 
 - 🔭 I’m currently working on [PJOB](https://github.com/Darshanbm05/p_jobs)
 

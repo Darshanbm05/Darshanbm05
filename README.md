@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [PJOB](https://github.com/Darshanbm05/p_jobs)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NEW THINGS*
 
 - 📫 How to reach me **darshubm044@gmail.com**
 
